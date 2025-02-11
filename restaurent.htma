@@ -1,0 +1,27 @@
+<html>
+<head>
+</head>
+<body>
+<h1>Rupa Restaurent</h1>
+       <h2>Menu Card</h2>
+<h3>Veg Soups</h3>                  <h3>Nonveg Soups</h3> 
+<pre>                               <pre>
+1.Potato Soup -------50/-           1.Chicken Soup
+2.Pumpkin Soup-------60/-           2.Mutton Soup
+3.Asparagus Soup-----50/-           3.Chicken Manchow Soup
+4.Broccoli & Stilton Soup--80/-     4.Kozhi Rasam
+5.Cheddar Soup-------50/-           5.Ladakhi Chicken Thukpa
+</pre>                              </pre>
+<h3>Veg Items</h3>                            <h3>Nonveg Items                      
+<pre>
+1.Mushroom Biriyani
+2.Panneer Pulav
+3.Aalu Tikkas
+4.Veg Rice
+5.panneer 65
+6.panner tikkaa
+7.Veg Noodles
+8.Palak Panneer
+9.Chana masala
+10.Matar Panneer
+</pre> 
